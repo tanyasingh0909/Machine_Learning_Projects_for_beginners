@@ -35,7 +35,7 @@ Machine learning model to predict whether a person is diabetic based on medical 
 Regression-based ML project for predicting house prices.
 
 ### Concepts Used
-- Linear Regression
+- XGB Regressor
 - Correlation Analysis
 - R² Score
 - Mean Squared Error (MSE)
